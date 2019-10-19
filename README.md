@@ -1,2 +1,2 @@
 # AndroidComponent
-组件化
+Android组件化
